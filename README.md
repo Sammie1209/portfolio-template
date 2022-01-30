@@ -1,10 +1,11 @@
 # My Portfolio website
 
 
-<!-- TODO: Insert the link in between the parenthesis -->
-👋  Hi! I'm Lenz Paul. I'm a programmer from [Vancouver, Canada](https://www.google.com/maps/place/Vancouver,+BC/@49.2576508,-123.2639868,11z/data=!3m1!4b1!4m5!3m4!1s0x548673f143a94fb3:0xbb9196ea9b81f38b!8m2!3d49.2827291!4d-123.1207375?hl=en).  
 
-This is the repository for [my portfolio](https://lenzpaul.dev/). 
+<!-- TODO: Insert the link in between the parenthesis -->
+👋  Hi! I'm Samantha. I am a Google Cloud Fellow.](https://www.google.com/maps/place/Vancouver,+BC/@49.2576508,-123.2639868,11z/data=!3m1!4b1!4m5!3m4!1s0x548673f143a94fb3:0xbb9196ea9b81f38b!8m2!3d49.2827291!4d-123.1207375?hl=en).  
+
+This is the repository for [my portfolio](https://samanthamcrae.dev/). 
 
 <br>
 
